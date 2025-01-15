@@ -1,0 +1,622 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\controllers\\booksadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\controllers\\booksadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\views\\booksadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\views\\booksadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\views\\booksadmin\\managebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\views\\booksadmin\\managebooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fafro\\AppData\\Local\\Temp\\.vsdbgsrc\\beb8360d536e1ff0e82ff492efe5dacf1327b22d7e30b96a543181e4543e6d94\\Views_Book_Index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\Migrations\\20250115020742_add-authorname-to-book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SklepInternetowyMVC\\Data\\Migrations\\20250115020742_add-authorname-to-book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|c:\\users\\fafro\\source\\repos\\sklepinternetowymvc\\sklepinternetowymvc\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FC33E8E-CAC6-47F9-8845-9F9C992CAB4A}|SklepInternetowyMVC\\SklepInternetowyMVC.csproj|solutionrelative:sklepinternetowymvc\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\Migrations\\20250114234324_Added statuscode in orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SklepInternetowyMVC\\Data\\Migrations\\20250114234324_Added statuscode in orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\Migrations\\20250114233752_added-tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SklepInternetowyMVC\\Data\\Migrations\\20250114233752_added-tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:21:07.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:24:46.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\Genre.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:00:10.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:28:26.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Models\\CartDetail.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\CartDetail.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Models\\CartDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:08:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\Book.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Models\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:57:47.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\BooksAdmin\\ManageBooks.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Views\\BooksAdmin\\ManageBooks.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\BooksAdmin\\ManageBooks.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Views\\BooksAdmin\\ManageBooks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:39:04.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAlwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:52:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Program.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Program.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:05:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Controllers\\BooksAdminController.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Controllers\\BooksAdminController.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Controllers\\BooksAdminController.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Controllers\\BooksAdminController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:34:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\BooksAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Views\\BooksAdmin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\BooksAdmin\\Create.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Views\\BooksAdmin\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:35:39.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:07:17.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\appsettings.json",
+              "RelativeToolTip": "SklepInternetowyMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T22:40:39.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T01:28:06.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Views_Book_Index.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\AppData\\Local\\Temp\\.vsdbgsrc\\beb8360d536e1ff0e82ff492efe5dacf1327b22d7e30b96a543181e4543e6d94\\Views_Book_Index.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\beb8360d536e1ff0e82ff492efe5dacf1327b22d7e30b96a543181e4543e6d94\\Views_Book_Index.cs",
+              "ToolTip": "C:\\Users\\fafro\\AppData\\Local\\Temp\\.vsdbgsrc\\beb8360d536e1ff0e82ff492efe5dacf1327b22d7e30b96a543181e4543e6d94\\Views_Book_Index.cs[Tylko do odczytu]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\beb8360d536e1ff0e82ff492efe5dacf1327b22d7e30b96a543181e4543e6d94\\Views_Book_Index.cs[Tylko do odczytu]",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGYAAAAYAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:59:28.309Z",
+              "EditorCaption": "[Tylko do odczytu]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "SklepInternetowyMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-14T22:45:24.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T00:24:55.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:14:41.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:25:22.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T00:17:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:21:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\Order.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:14:31.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:55:31.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T00:17:28.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:55:21.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Constants\\Roles.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:46:46.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:04:48.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T02:23:52.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250115020742_add-authorname-to-book.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\Migrations\\20250115020742_add-authorname-to-book.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Data\\Migrations\\20250115020742_add-authorname-to-book.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\Migrations\\20250115020742_add-authorname-to-book.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Data\\Migrations\\20250115020742_add-authorname-to-book.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:07:42.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250114233752_added-tables.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\Migrations\\20250114233752_added-tables.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Data\\Migrations\\20250114233752_added-tables.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\Migrations\\20250114233752_added-tables.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Data\\Migrations\\20250114233752_added-tables.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:37:52.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250114234324_Added statuscode in orderstatus.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\Migrations\\20250114234324_Added statuscode in orderstatus.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Data\\Migrations\\20250114234324_Added statuscode in orderstatus.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Data\\Migrations\\20250114234324_Added statuscode in orderstatus.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Data\\Migrations\\20250114234324_Added statuscode in orderstatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:43:24.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T23:44:44.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAUwHsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:45:22.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T00:27:53.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\fafro\\source\\repos\\SklepInternetowyMVC\\SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "SklepInternetowyMVC\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T23:44:53.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

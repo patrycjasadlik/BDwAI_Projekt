@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SklepInternetowyMVC.Models.Book>
+
+@{
+    ViewData["Title"] = "Manage Books";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add New Book</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.BookName)</th>
+            <th>@Html.DisplayNameFor(model => model.AuthorName)</th>
+            <th>@Html.DisplayNameFor(model => model.Price)</th>
+            <th>@Html.DisplayNameFor(model => model.Image)</th>
+            <th>@Html.DisplayNameFor(model => model.Genre)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => book.BookName)</td>
+                <td>@Html.DisplayFor(modelItem => book.AuthorName)</td>
+                <td>@Html.DisplayFor(modelItem => book.Price)</td>
+                <td>@Html.DisplayFor(modelItem => book.Image)</td>
+                <td>@Html.DisplayFor(modelItem => book.Genre.GenreName)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@book.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@book.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@book.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
